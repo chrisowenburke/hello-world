@@ -1,2 +1,2 @@
 # hello-world
-learning to use GitHub, with the hello world guide
+My first time using GitHub. So learning how to use it with the Hello World guide.
